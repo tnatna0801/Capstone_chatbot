@@ -1,0 +1,523 @@
+Label	Weight	Text
+l_Weather	1	ㅏㅏㅏㅏㅏㅏㅏㅏㅏ
+q_sample-qna	1	사물인터넷
+q_sample-qna	1	2018학년도 2학기 교내장학금(4차) 신청 안내
+q_sample-qna	1	AI시대 여성IT 戰士(전사)를 키워라!
+q_sample-qna	1	2019-1학기 캡스턴디자인(1) 조편성 및 지도교수님 선정 안내
+q_sample-qna	1	펌웨어설계에서는 뭐 배워
+q_sample-qna	1	2018-2학기 시간표 유의사항 안내
+q_sample-qna	1	C언어 프로그래밍(2)에서 무엇을 가르쳐
+q_sample-qna	1	인천대 최고의 미남은
+q_sample-qna	1	임베디드 홈피 알려줘
+q_sample-qna	1	2018학년도 2학기 공인영어시험 성적우수자 학점인정 신청 안내
+q_sample-qna	1	1학년 2학기 전공선택 알려줘
+q_sample-qna	1	신호처리입문에서 뭘 배울 수 있어
+q_sample-qna	1	2019학년도 1학기 학업재이수 신청 안내
+q_sample-qna	1	오픈소스HW기초에서 뭘 배울 수 있어
+q_sample-qna	1	학산도서관 2019학년도 1학기 교내 봉사장학생 추가모집 결과 안내
+q_sample-qna	1	1학년 2학기 전공기초 알려줘
+q_sample-qna	1	2017 INU 졸업생 취업경로조사 설문
+q_sample-qna	1	2018학년도 1학기 이수학점 포기 안내
+q_sample-qna	1	자기설계세미나I에서 뭘 배울 수 있어
+q_sample-qna	1	12월 학사일정 알려줘
+q_sample-qna	1	[대외공모]인천시 홈페이지 개편에 함께 참여 할 시민평가단 모집
+q_sample-qna	1	2019-1학기 예술체육대학 봉사장학생 선발 결과 알림
+q_sample-qna	1	C언어 프로그래밍(2)
+q_sample-qna	1	[교육부고시]『인천·복지대학교 생활관 신축 임대형 민자사업(BTL)』실시계획 승인
+q_sample-qna	1	1학년 1학기 전공필수 알려줘
+q_sample-qna	1	2018학년도 2학기 연계·학생설계융합전공 신청 안내
+q_sample-qna	1	[대외홍보]2019년 제12회 세계인의 날 행사 안내
+q_sample-qna	1	5월은
+q_sample-qna	1	졸업요건
+q_sample-qna	1	[장학, 대출]  국가장학금 등 한국장학재단 주요사업 안내
+q_sample-qna	1	강의시간 외 강의실 사용 및 제제조치에 관한 공지
+q_sample-qna	1	[대외홍보]2019년 인천 테마형 시티투어 홍보
+q_sample-qna	1	로봇시스템
+q_sample-qna	1	통신공학은 무엇을 배우는 수업이야
+q_sample-qna	1	정보통신공학과 교육조교 모집 공고
+q_sample-qna	1	임베디드 시스템 공학과 팩스 번호 알려줘
+q_sample-qna	1	통신공학
+q_sample-qna	1	[사회봉사] 제4기 INU(I&YOU) 글로벌 사회공헌 봉사단(네팔팀) 면접심사 대상자 발표 및 면접안내
+q_sample-qna	1	4학년 2학기 전공기초 알려줘
+q_sample-qna	1	2018학년도 2학기 부·복수전공 신청 안내
+q_sample-qna	1	랩 해줘
+q_sample-qna	1	넌 뭐니
+q_sample-qna	1	센서공학
+q_sample-qna	1	MATLAB 이해 및 실습은 무엇을 배우는 수업이야
+q_sample-qna	1	[대외홍보]2019 순천시 열린정원 여행 안내
+q_sample-qna	1	제12주년 세계인의 날 기념  ‘당신의 대한민국을 보여 주세요’수기<U+2027>사진<U+2027>동영상 공모전 you
+q_sample-qna	1	알고리즘
+q_sample-qna	1	임베디드구조에서는 뭐 배워
+q_sample-qna	1	2019-1학기 공인영어시험 성적우수자 학점인정 신청 안내
+q_sample-qna	1	1학년 1학기 전공기초 알려줘
+q_sample-qna	1	자기설계세미나II는 무엇을 배우는 수업이야
+q_sample-qna	1	디지털논리회로에서는 뭐 배워
+q_sample-qna	1	공통 2학기 전공선택 알려줘
+q_sample-qna	1	센서공학은 무엇을 배우는 수업이야
+q_sample-qna	1	2018학년도 2학기 군 복무 휴학 중 취득학점에 대한 학점인정 신청 안내
+q_sample-qna	1	[사회복지학과] 조교 대체인력 모집 안내
+q_sample-qna	1	2학년 2학기 전공필수 알려줘
+q_sample-qna	1	통신공학에서 뭘 배울 수 있어
+q_sample-qna	1	사물인터넷에서 뭘 배울 수 있어
+q_sample-qna	1	드론 영상 촬영 기초부터 중급까지 맞춤형 무료 특강
+q_sample-qna	1	2017-2학기 3차교내장학금 대상자 신청 안내
+q_sample-qna	1	임베디드SW공학에서 뭘 배울 수 있어
+q_sample-qna	1	제어공학은 무엇을 배우는 수업이야
+q_sample-qna	1	2019학년도 인천대학교 졸업앨범 촬영공지
+q_sample-qna	1	대입전형 및 학과진로안내 영상제작 참가신청 안내
+q_sample-qna	1	대학수학(1)은 무엇을 배우는 수업이야
+q_sample-qna	1	너 여자친구 있어
+q_sample-qna	1	2018학년도 2학기 부·복수전공 포기신청 안내
+q_sample-qna	1	3.1운동  및 임시정부수립 1002ㅜ년 기념 UCC 공모전 안내
+q_sample-qna	1	임베디드에 교수님 누구있어
+q_sample-qna	1	3월은
+q_sample-qna	1	4학년 2학기 전공필수 알려줘
+q_sample-qna	1	[대외공모]2019 김해문화재단 창작 희곡 공모
+q_sample-qna	1	창의설계입문은 무엇을 배우는 수업이야
+q_sample-qna	1	2018-1학기 교내장학금 대상자 신청(4차)
+q_sample-qna	1	황광일 교수님 상담신청 및 상담
+q_sample-qna	1	1월 일정
+q_sample-qna	1	대학수학(1) 에서 무엇을 가르쳐
+q_sample-qna	1	너 성별이 어떻게 돼
+q_sample-qna	1	객체기반SW설계에서 뭘 배울 수 있어
+q_sample-qna	1	2월 일정
+q_sample-qna	1	선형시스템
+q_sample-qna	1	데이터베이스에서는 뭐 배워
+q_sample-qna	1	디지털논리회로에서 뭘 배울 수 있어
+q_sample-qna	1	데이터구조
+q_sample-qna	1	[INU어학센터] 2019-1학기 봉사장학생(추가) 모집결과 공고
+q_sample-qna	1	너 남자친구 있어
+q_sample-qna	1	임베디드SW기초에서는 뭐 배워
+q_sample-qna	1	2019-1학기 교내장학금(3차) 신청 안내
+q_sample-qna	1	캡스턴디자인에서 무엇을 가르쳐
+q_sample-qna	1	네트워크구조및설계에서는 뭐 배워
+q_sample-qna	1	[대외홍보]'제5회 대학생 신조선통신사' 참가모집
+q_sample-qna	1	9월 일정
+q_sample-qna	1	2019 영암왕인문화축제 홍보
+q_sample-qna	1	2019년 제9차 인천대학교 자체계약 직원 채용 공고
+q_sample-qna	1	9월 학사일정
+q_sample-qna	1	창의설계입문에서 무엇을 가르쳐
+q_sample-qna	1	임베디드통신시스템은 무엇을 배우는 수업이야
+q_sample-qna	1	통신공학에서 무엇을 가르쳐
+q_sample-qna	1	원자력 연구원 현장실습생 모집
+q_sample-qna	1	영상처리는 무엇을 배우는 수업이야
+q_sample-qna	1	8월에 무슨 일 있어
+q_sample-qna	1	부호및정보이론에서 뭘 배울 수 있어
+q_sample-qna	1	신호처리입문에서 무엇을 가르쳐
+q_sample-qna	1	2019학년도 하계 계절학기 학점교류 안내(한국산업기술대학교)
+q_sample-qna	1	디바이스드라이버개발은 무엇을 배우는 수업이야
+q_sample-qna	1	4학년 2학기 전공선택 알려줘
+q_sample-qna	1	객체기반SW설계은 무엇을 배우는 수업이야
+q_sample-qna	1	오픈소스HW기초
+q_sample-qna	1	2018년 2학기 셀트리온복지재단 생활비 장학금 신청 안내
+q_sample-qna	1	1월에 무슨 일 있어
+q_sample-qna	1	랜덤프로세스에서 뭘 배울 수 있어
+q_sample-qna	1	너 몇살이야
+q_sample-qna	1	비트박스 해봐
+q_sample-qna	1	캡스턴디자인
+q_sample-qna	1	2018학년도 1학기 부·복수(연계)·학생설계융합전공 포기신청 안내
+q_sample-qna	1	[보건진료소] 2019년 대학축제기간 '건강체험관' 운영 안내
+q_sample-qna	1	2학년1학기 교양필수 알려줘
+q_sample-qna	1	2019학년도 1학기 재수강 신청 안내
+q_sample-qna	1	마이크로컨트롤러구조에서 무엇을 가르쳐
+q_sample-qna	1	[동북아통상] 동북아국제통상학부 조교 모집
+q_sample-qna	1	캡스턴디자인에서는 뭐 배워
+q_sample-qna	1	제어공학에서 무엇을 가르쳐
+q_sample-qna	1	2017-2학기 인천대사랑장학생 신청 안내
+q_sample-qna	1	수업 쨀까
+q_sample-qna	1	마이크로컨트롤러응용에서 무엇을 가르쳐
+q_sample-qna	1	제1회 보안전문가 초청 대학생 취업 세미나 개최 안내
+q_sample-qna	1	[사회봉사] 2019년 월드프렌즈(단기) ICT 봉사단 단원(학생) 모집 및 신청 안내(해외봉사)
+q_sample-qna	1	너는 누구니
+q_sample-qna	1	10월 학사일정 알려줘
+q_sample-qna	1	[대외공모]2019년도 산림관광 콘텐츠 민간 공모
+q_sample-qna	1	임베디드시스템공학과 현장교육실습 신청 업체 현황 안내
+q_sample-qna	1	[사회봉사]「2019 해피워터 희망멘토링」대학생 멘토 모집 안내
+q_sample-qna	1	네트워크구조및설계는 무엇을 배우는 수업이야
+q_sample-qna	1	임베디드시스템개론에서 뭘 배울 수 있어
+q_sample-qna	1	2019년 소셜벤처 대학 동아리 지원사업 공모 안내
+q_sample-qna	1	2019-1 수강신청 기간 및 유의사항 안내
+q_sample-qna	1	국제학생증 발급에 따른 발급비 지원 이벤트
+q_sample-qna	1	[대외홍보]2019MG희망나눔 내집잡기 청년주거지원 사업 안내
+q_sample-qna	1	임베디드구조는 무엇을 배우는 수업이야
+q_sample-qna	1	2학년 1학기 전공선택 알려줘
+q_sample-qna	1	2019-1 학기 학업우수장학금 및 기타 교내장학금 신청 안내
+q_sample-qna	1	3학년 1학기 전공필수 알려줘
+q_sample-qna	1	[공학교육혁신센터] 2019년 NEXT Engineer Leader 선정 결과 안내
+q_sample-qna	1	임베디드 교수님 누구야
+q_sample-qna	1	임베디드SW공학은 무엇을 배우는 수업이야
+q_sample-qna	1	정보기술대학 알고리즘 Jobs특강 모집
+q_sample-qna	1	임베디드 사무실번호
+q_sample-qna	1	학사일정 8월
+q_sample-qna	1	'빅데이터의 비지니스 가치창출' 조성준교수 명사 특강 안내
+q_sample-qna	1	운영체제에서는 뭐 배워
+q_sample-qna	1	임베디드시스템개론에서 무엇을 가르쳐
+q_sample-qna	1	임베디드시스템특강에서는 뭐 배워
+q_sample-qna	1	부호및정보이론에서는 뭐 배워
+q_sample-qna	1	임베디드시스템공학과 2019학년도 1학기 교내 봉사장학생(일반) 모집
+q_sample-qna	1	임베디드시스템공학과 학과홍보장학생 모집
+q_sample-qna	1	임베디드SW기초에서 뭘 배울 수 있어
+q_sample-qna	1	고급알고리즘
+q_sample-qna	1	임베디드 브레인 업그레이드 프로그램 안내
+q_sample-qna	1	2017학년도 2학기 대학원 장학금 신청 안내
+q_sample-qna	1	[대외공모]K-water 국민참여예산제 안내 ok
+q_sample-qna	1	C언어 프로그래밍(1)
+q_sample-qna	1	심심해
+q_sample-qna	1	2018-2학기 성적 장학금 산출을 위한 기초자료 확인
+q_sample-qna	1	2019년 하계방학 제안전문가 3급 자격증 취득과정 모집
+q_sample-qna	1	공업수학에서 뭘 배울 수 있어
+q_sample-qna	1	넌 누구야
+q_sample-qna	1	2018-2학기 교내장학금(3차) 대상자 신청 안내(인천대사랑 장학금 신청 안내)
+q_sample-qna	1	12월 일정
+q_sample-qna	1	11월 학사일정 알려줘
+q_sample-qna	1	공업수학에서는 뭐 배워
+q_sample-qna	1	[대외공모]수도권대기환경청 캐릭터 이모티콘 공모전
+q_sample-qna	1	객체기반SW설계에서는 뭐 배워
+q_sample-qna	1	임베디드SW공학
+q_sample-qna	1	몇살이야
+q_sample-qna	1	4월에 무슨 일 있어
+q_sample-qna	1	대학수학(2)에서 뭘 배울 수 있어
+q_sample-qna	1	난 심심해
+q_sample-qna	1	[대외]2019 정원의 날 기념행사 안내
+q_sample-qna	1	랜덤프로세스
+q_sample-qna	1	12월에 무슨 일 있어
+q_sample-qna	1	6월은
+q_sample-qna	1	2019학년도 1학기 군 복무 휴학 중 취득학점에 대한 학점인정 신청 안내
+q_sample-qna	1	[영어영문학과] 교육조교 모집
+q_sample-qna	1	사물인터넷은 무엇을 배우는 수업이야
+q_sample-qna	1	2018년 인천 사회복지공동모금회 사랑의 열매 장학생 신청
+q_sample-qna	1	[대외전략과] 2019-1학기 교내봉사장학생 추가모집
+q_sample-qna	1	5월 일정
+q_sample-qna	1	2019학년도 1학기 부·복수전공 포기신청 안내
+q_sample-qna	1	로봇시스템은 무엇을 배우는 수업이야
+q_sample-qna	1	2018-1학기 수강신청과목 포기 안내
+q_sample-qna	1	1월 학사일정
+q_sample-qna	1	10월 학사일정
+q_sample-qna	1	[한국장학재단] 2019년 고졸 후학습자 장학금(희망사다리II유형) 2차 신청기간 연장안내(4월 12일 18시까지)
+q_sample-qna	1	2018학년도 2학기 연계·학생설계융합전공 포기 신청 안내
+q_sample-qna	1	4월 일정
+q_sample-qna	1	알고리즘에서 뭘 배울 수 있어
+q_sample-qna	1	「기본소득, 나를 알려줘~!」 아이디어 모집 공고
+q_sample-qna	1	너 친구 없지.
+q_sample-qna	1	2019년 4월 MOS 자격시험일 안내
+q_sample-qna	1	마이크로컨트롤러구조는 무엇을 배우는 수업이야
+q_sample-qna	1	신호처리입문
+q_sample-qna	1	4학년 1학기 전공필수 알려줘
+q_sample-qna	1	네트워크구조및설계에서 뭘 배울 수 있어
+q_sample-qna	1	[기초교육팀] 2019-1학기 교내봉사장학생 추가 모집
+q_sample-qna	1	7월은
+q_sample-qna	1	2019-1학기 수강포기 안내문
+q_sample-qna	1	너 친구 있니
+q_sample-qna	1	[개교 40주년 기념] 인증사업 안내 및 참여 요청
+q_sample-qna	1	2019-1학기 수강신청과목 포기 결과 안내
+q_sample-qna	1	학사일정 7월
+q_sample-qna	1	2018-2학기 장학금신청(1차)_성적장학금 신청 등
+q_sample-qna	1	공통 1학기 전공필수 알려줘
+q_sample-qna	1	2019학년도 여름계절학기 영어졸업인증 대체수업 시행 안내
+q_sample-qna	1	장학금 알려줘
+q_sample-qna	1	[보건진료소] 2019년 1학기 보건진료소 야간진료 운영 안내
+q_sample-qna	1	2018 임베디드시스템공학과 브레인업그레이드 겨울방학 특강 안내(선착순)
+q_sample-qna	1	[대외공고]2019 국방과학기술을 활용한 창업경진대회 개최 공고
+q_sample-qna	1	9월은
+q_sample-qna	1	센서공학에서 뭘 배울 수 있어
+q_sample-qna	1	5월 학사일정 알려줘
+q_sample-qna	1	임베디드 시스템 공학과 사이트 알려줘
+q_sample-qna	1	조기졸업 희망자 신청 안내
+q_sample-qna	1	[국제지원센터] 봉사장학생 선발결과 안내
+q_sample-qna	1	디바이스드라이버개발에서 무엇을 가르쳐
+q_sample-qna	1	[사회봉사] 제 4기 INU(I&YOU) 글로벌 사회공헌 봉사단(네팔팀) 최종 합격자 발표 및 교육일정 안내
+q_sample-qna	1	너 결혼했어
+q_sample-qna	1	너 애인 있어
+q_sample-qna	1	2019년 2월 졸업 예정자 졸업사정
+q_sample-qna	1	2019-1학기 수강신청과목 포기 안내
+q_sample-qna	1	임베디드 시스템 공학과 교수님 알려줘
+q_sample-qna	1	이산수학
+q_sample-qna	1	창의설계입문에서 뭘 배울 수 있어
+q_sample-qna	1	임베디드SW기초
+q_sample-qna	1	임베디드 사이트
+q_sample-qna	1	인천대사랑장학금(도전장학금 및 열정장학금) 신청 안내 -
+q_sample-qna	1	C언어 프로그래밍(1)에서 무엇을 가르쳐
+q_sample-qna	1	반가워
+q_sample-qna	1	[대외공모]시흥4동 마을캐릭터  공모전
+q_sample-qna	1	7월 일정
+q_sample-qna	1	2019년 ETRI SW-SoC융합아카데미 취업연계 교육 안내
+q_sample-qna	1	2월 학사일정
+q_sample-qna	1	자기설계세미나II
+q_sample-qna	1	4차 산업혁명의 이해와 융합 교과목 개발을 위한 특강 개최 안내
+q_sample-qna	1	로봇시스템에서 뭘 배울 수 있어
+q_sample-qna	1	네트워크구조및설계
+q_sample-qna	1	로봇시스템에서는 뭐 배워
+q_sample-qna	1	황광일교수님 지도학생 2018 1학기 상담 공지
+q_sample-qna	1	제어공학에서 뭘 배울 수 있어
+q_sample-qna	1	임베디드비전시스템에서는 뭐 배워
+q_sample-qna	1	8월 일정
+q_sample-qna	1	선형시스템에서 무엇을 가르쳐
+q_sample-qna	1	[대외공모]제3회 강원연구원 대학(원)생 연구논문 공모
+q_sample-qna	1	2학년 1학기 전공기초 알려줘
+q_sample-qna	1	황광일 교수님 담임교수 상담 안내
+q_sample-qna	1	임베디드SW기초는 무엇을 배우는 수업이야
+q_sample-qna	1	펌웨어설계에서 뭘 배울 수 있어
+q_sample-qna	1	2017학년도 2학기 공인영어시험 성적우수자 학점인정 신청 안내
+q_sample-qna	1	11월에 무슨 일 있어
+q_sample-qna	1	데이터베이스에서 무엇을 가르쳐
+q_sample-qna	1	(주)제너셈 모집공고
+q_sample-qna	1	10월에 무슨 일 있어
+q_sample-qna	1	2018학년도 1학기 공인영어시험 성적우수자 학점인정 신청 안내
+q_sample-qna	1	졸업 하려면 뭐 해야 해
+q_sample-qna	1	2019-1학기 교내장학금(4차) 대상자 신청 안내
+q_sample-qna	1	임베디드구조에서 무엇을 가르쳐
+q_sample-qna	1	마이크로컨트롤러응용에서는 뭐 배워
+q_sample-qna	1	2017-2학기 학과사무실 봉사장학생 모집
+q_sample-qna	1	제5회 연수구 청소년 별별축제 부스운영 참가자 및 자원봉사자 모집 안내(~5월 7일)
+q_sample-qna	1	너 남자친구나 여자친구 있어
+q_sample-qna	1	회로및소자에서 뭘 배울 수 있어
+q_sample-qna	1	졸업 알려줘
+q_sample-qna	1	[대외공고]강원도 스마트시티 해커톤」참여자 모집공고
+q_sample-qna	1	펌웨어설계
+q_sample-qna	1	[대외공모]「SHOW ME THE START-UP」창업캠프 홍보
+q_sample-qna	1	안녕
+q_sample-qna	1	3학년1학기 교양필수 알려줘
+q_sample-qna	1	2018-2학기 수강신청과목 포기 안내
+q_sample-qna	1	[대외공고]한국방송통신대학교(인천) 수업조교 모집
+q_sample-qna	1	2018학년도 2학기 학·석사 연계과정 신청 안내
+q_sample-qna	1	총무팀 예비군연대 2019-1학기 교내 봉사장학생 모집
+q_sample-qna	1	2019프랑스 유학박람회 행사 안내 (Campus France 주최)
+q_sample-qna	1	[대외공모]2019년 민생규제 혁신 과제 공모(행안부,~5월17일)
+q_sample-qna	1	임베디드SW공학에서 무엇을 가르쳐
+q_sample-qna	1	사물인터넷에서 무엇을 가르쳐
+q_sample-qna	1	1월은
+q_sample-qna	1	혁신 아이디어 메이커톤 안내
+q_sample-qna	1	2019 여름학기 임베디드시스템공학과 현장교육실습 신청 업체 현황 및 신청 안내
+q_sample-qna	1	2019년 3월 MOS 자격시험일 안내(일정 변경 안내)
+q_sample-qna	1	12월 학사일정
+q_sample-qna	1	ㅎ2
+q_sample-qna	1	2학년 2학기 전공선택 알려줘
+q_sample-qna	1	데이터베이스
+q_sample-qna	1	운영체제는 무엇을 배우는 수업이야
+q_sample-qna	1	[대외공모]제6회 안전한 학교 공모전 안내
+q_sample-qna	1	데이터베이스에서 뭘 배울 수 있어
+q_sample-qna	1	2018년 INU멘토링 프로그램 운영계획 안내 및 모집
+q_sample-qna	1	[여성가족부] 2019년 국가간 청소년교류 2차 파견대표단 모집 안내
+q_sample-qna	1	임베디드구조
+q_sample-qna	1	2학년 1학기 전공필수 알려줘
+q_sample-qna	1	[공학교육혁신센터] 2019-1 산학 캡스톤디자인 경진대회 ( 학생팀 및 멘토 모집)
+q_sample-qna	1	성적 장학금 알려줘
+q_sample-qna	1	회로및소자에서 무엇을 가르쳐
+q_sample-qna	1	창의설계입문
+q_sample-qna	1	4월 학사일정
+q_sample-qna	1	2019학년도  1학기 연계·학생설계융합전공 신청안내
+q_sample-qna	1	2019학년도 1학기 연계·국제협력·학생설계융합전공 포기 신청 안내
+q_sample-qna	1	[교원채용]인천대학교 사회봉사센터 초빙교원 초빙 안내(긴급 추가 모집)
+q_sample-qna	1	제 3회 INU 3D 프린팅 경진대회 안내
+q_sample-qna	1	2학년2학기 교양필수 알려줘
+q_sample-qna	1	2019-1 국어국문학과 전공 교과목 수강정원 증원 안내
+q_sample-qna	1	11월 일정
+q_sample-qna	1	[대외공모]2019 대학(원)생 재난안전 아이디어<U+FF65>논문 공모전 계획 you
+q_sample-qna	1	캡스턴디자인에서 뭘 배울 수 있어
+q_sample-qna	1	2019-1학기 총무팀 예비군연대 봉사장학생 선발 결과 알림
+q_sample-qna	1	9월 학사일정 알려줘
+q_sample-qna	1	수능이후 학사운영 내실화 방안 마련을 위한 현장 설문조사 안내
+q_sample-qna	1	3월 학사일정 알려줘
+q_sample-qna	1	회로및소자는 무엇을 배우는 수업이야
+q_sample-qna	1	대학수학(2)에서 무엇을 가르쳐
+q_sample-qna	1	대학수학(1)
+q_sample-qna	1	[사회봉사]한라종합사회복지관 대학생 봉사자 HALLA 서포터즈 모집 안내
+q_sample-qna	1	졸업 어떻게 해
+q_sample-qna	1	2017 인천대를 빛낸, 인천대인 신청 안내
+q_sample-qna	1	디바이스드라이버개발에서는 뭐 배워
+q_sample-qna	1	2018학년도 1학기 군 복무 휴학 중 취득학점에 대한 학점인정 신청 안내
+q_sample-qna	1	[교외장학] 2019년 (재)인천인재육성재단 대학생 해외연수 장학생 선발 안내(~4월 5일까지 신청)
+q_sample-qna	1	[사회봉사] 2019 제 45회 러시아 카잔 국제기능올림픽 대회 통역요원 자원봉사 모집 안내
+q_sample-qna	1	3학년 2학기 전공필수 알려줘
+q_sample-qna	1	C언어 프로그래밍(2)에서 뭘 배울 수 있어
+q_sample-qna	1	임베디드 팩스 번호 뭐야
+q_sample-qna	1	성적장학금
+q_sample-qna	1	2019 대청호대덕뮤직페스티벌 「전국 청소년가요제」 홍보
+q_sample-qna	1	학사일정 4월
+q_sample-qna	1	[사회봉사]2019 중학생 꿈찾기 및 학습 멘토링 대학생 멘토 모집 안내
+q_sample-qna	1	이산수학은 무엇을 배우는 수업이야
+q_sample-qna	1	회로및소자
+q_sample-qna	1	2018-겨울학기 현장교육실습 신청 안내
+q_sample-qna	1	[모집] 컴퓨터공학부 교육조교 모집 공고
+q_sample-qna	1	'디지털 회로 및 소자 실습' 보조원 모집
+q_sample-qna	1	[대외홍보]「제89회 남원 춘향제」 홍보
+q_sample-qna	1	윈드리버 시스템스 회사에서 겨울방학 인턴을 모집 안내
+q_sample-qna	1	2019년 파란사다리 사업 운영 자체 계약직원 채용계획 공고
+q_sample-qna	1	4월 학사일정 알려줘
+q_sample-qna	1	자기설계세미나II에서는 뭐 배워
+q_sample-qna	1	임베디드시스템공학과 한국전자전 세미나 참관 안내
+q_sample-qna	1	선형시스템에서는 뭐 배워
+q_sample-qna	1	3월 학사일정
+q_sample-qna	1	현장교육·실습 온라인사전교육 방법 안내
+q_sample-qna	1	[생협] 2019년 1학기 생협 생활장학금 장학생 선발안내
+q_sample-qna	1	2018학년도 1학기 학업재이수 신청 안내
+q_sample-qna	1	데이터구조에서는 뭐 배워
+q_sample-qna	1	고급알고리즘에서 무엇을 가르쳐
+q_sample-qna	1	학사일정 3월
+q_sample-qna	1	3학년 2학기 전공기초 알려줘
+q_sample-qna	1	[학생생활상담소]2019-1  생활원생들을 위한 대인관계 집단상담 모집
+q_sample-qna	1	선형시스템에서 뭘 배울 수 있어
+q_sample-qna	1	오픈소스HW기초는 무엇을 배우는 수업이야
+q_sample-qna	1	2018학년도 2학기 이수학점포기(마지막 학기) 신청 안내
+q_sample-qna	1	정보기술대학 TOEIC 스페셜 무료강좌 수강생 모집
+q_sample-qna	1	영상처리에서 뭘 배울 수 있어
+q_sample-qna	1	임베디드시스템개론에서는 뭐 배워
+q_sample-qna	1	2018-1학기 대학수학 튜터링 프로그램 안내
+q_sample-qna	1	[교외장학] 2019년 상반기 건설근로자 「학자금대출 이자지원」 신청 안내 (~4월 2일까지 신청)
+q_sample-qna	1	센서공학에서는 뭐 배워
+q_sample-qna	1	[대외홍보]2019 전국 대학생 광주 소통콘텐츠 경연대회」
+q_sample-qna	1	운영체제에서 뭘 배울 수 있어
+q_sample-qna	1	캡스턴디자인은 무엇을 배우는 수업이야
+q_sample-qna	1	[대외공모]제6회 해양수산 공공데이터 활용 경진대회
+q_sample-qna	1	너 이름이 뭐야
+q_sample-qna	1	임베디드시스템개론은 무엇을 배우는 수업이야
+q_sample-qna	1	2학년 2학기 전공기초 알려줘
+q_sample-qna	1	[병무청]2019년 5월 각 군 현역병 모집계획 알림
+q_sample-qna	1	2019학년도 1학기 공인영어시험 성적우수자 학점인정 신청 안내
+q_sample-qna	1	대구기상지청 제3회 「기후시그널 8.5 기후변화 인포그래픽 공모전」안내
+q_sample-qna	1	2018-1학기 교내장학금 신청(학업우수 장학금 포함)
+q_sample-qna	1	MATLAB 이해 및 실습에서는 뭐 배워
+q_sample-qna	1	[대외홍보]'생리대'나눔 프로젝트
+q_sample-qna	1	2020년 전국체전 및 전국장애인체전 상징물 공모 공고
+q_sample-qna	1	[대외공모]제4회 천안시 도시디자인 공모전 개최 공고
+q_sample-qna	1	창의설계입문에서는 뭐 배워
+q_sample-qna	1	극지연구소 기자단 모집
+q_sample-qna	1	11월은
+q_sample-qna	1	디지털논리회로
+q_sample-qna	1	운영체제
+q_sample-qna	1	하루대학생
+q_sample-qna	1	넌 뭐야
+q_sample-qna	1	MATLAB 이해 및 실습
+q_sample-qna	1	2019-2020 이탈리아정부초청장학생 선발 모집 안내
+q_sample-qna	1	과제 핵노잼
+q_sample-qna	1	오픈소스HW기초에서 무엇을 가르쳐
+q_sample-qna	1	임베디드SW기초에서 무엇을 가르쳐
+q_sample-qna	1	센서공학에서 무엇을 가르쳐
+q_sample-qna	1	9월에 무슨 일 있어
+q_sample-qna	1	2017 겨울학기 현장실습 업체 2차 안내
+q_sample-qna	1	2017학년도 2학기 군 복무 휴학 중 취득학점에 대한 학점인정 신청 안내
+q_sample-qna	1	사물인터넷에서는 뭐 배워
+q_sample-qna	1	2018 인천대를 빛낸, 인천대 학생 시상자 선발 안내
+q_sample-qna	1	전과 신청 안내
+q_sample-qna	1	로봇시스템에서 무엇을 가르쳐
+q_sample-qna	1	[대외공연]2019 대한민국 과학축제 연계 과학연극 '리와인드' 공연 안내
+q_sample-qna	1	6월에 무슨 일 있어
+q_sample-qna	1	객체기반SW설계
+q_sample-qna	1	2018-2학기 학습지원 프로그램 안내
+q_sample-qna	1	마이크로컨트롤러구조에서 뭘 배울 수 있어
+q_sample-qna	1	C언어 프로그래밍(1)에서 뭘 배울 수 있어
+q_sample-qna	1	임베디드비전시스템에서 무엇을 가르쳐
+q_sample-qna	1	대학원 학비전액장학생 연구실적물 제출 방법 안내
+q_sample-qna	1	2019-1학기 성적장학금 안내
+q_sample-qna	1	랜덤프로세스에서 무엇을 가르쳐
+q_sample-qna	1	부호및정보이론
+q_sample-qna	1	11월 학사일정
+q_sample-qna	1	몇 살이니
+q_sample-qna	1	통신공학에서는 뭐 배워
+q_sample-qna	1	[공학교육혁신센터] 비교과 창의융합 교육프로그램 학생 모집(장학금 지급)
+q_sample-qna	1	이산수학에서 뭘 배울 수 있어
+q_sample-qna	1	네트워크구조및설계에서 무엇을 가르쳐
+q_sample-qna	1	4학년 1학기 전공선택 알려줘
+q_sample-qna	1	학사일정 1월
+q_sample-qna	1	임베디드시스템특강은 무엇을 배우는 수업이야
+q_sample-qna	1	INU 멘토링 프로그램 안내
+q_sample-qna	1	비트박스
+q_sample-qna	1	3학년2학기 교양필수 알려줘
+q_sample-qna	1	랩 해봐
+q_sample-qna	1	오늘의 운세는
+q_sample-qna	1	2018학년도 1학기 CPA고시반 모집 안내
+q_sample-qna	1	10월 일정
+q_sample-qna	1	정보기술대학 학부강의 TA (Teaching Assistant)활동 프로그램 신청 안내
+q_sample-qna	1	넌 언제 태어났니
+q_sample-qna	1	1학년2학기 교양필수 알려줘
+q_sample-qna	1	[넥슨네트웍스] 하계방학 산학연계 인턴십 모집 안내
+q_sample-qna	1	디바이스드라이버개발에서 뭘 배울 수 있어
+q_sample-qna	1	[교외장학] 2019년 재단법인 천정 장학생 선발공모 안내 (~3월 19일까지 접수)
+q_sample-qna	1	4차 산업혁명의 이해와 융합 교과목 개발을 위한 전문가 초청 특강 참석 안내
+q_sample-qna	1	'산타토익' 온라인 강좌 신청 안내(선착순,  178,000에서>20,000원으로 2개월 학습권)
+q_sample-qna	1	임베디드 시스템 공학과 사무실번호
+q_sample-qna	1	인천대학교 파란사다리사업 참여학생 모집 안내(방학기간 해외 연수 프로그램)
+q_sample-qna	1	비트박스 해줘
+q_sample-qna	1	[생협] 2019년도 소비자생활협동조합 정기 대의원총회 개최 공고
+q_sample-qna	1	마이크로컨트롤러응용
+q_sample-qna	1	2019-1학기 학습상담(컨설팅) 신청 안내
+q_sample-qna	1	3월 일정
+q_sample-qna	1	3월에 무슨 일 있어
+q_sample-qna	1	2017-2 중소기업 취업 연계(희망사다리)장학금  신청 안내
+q_sample-qna	1	삼성전자 DS부문 육목 SW 알고리즘 대회
+q_sample-qna	1	공업수학
+q_sample-qna	1	인천대학교 정보기술대학 2018년도 신입생을 위한 [입학전] 파이썬 코딩 캠프
+q_sample-qna	1	농담해줘
+q_sample-qna	1	2월은
+q_sample-qna	1	2018년 학생 포트폴리오경진대회 안내
+q_sample-qna	1	임베디드구조에서 뭘 배울 수 있어
+q_sample-qna	1	대학수학(1)에서는 뭐 배워
+q_sample-qna	1	제7회 국민연금 연구과제 대 국민 공모전 안내
+q_sample-qna	1	[대외홍보]휴대용 가스레인지 안전사용요령  안내
+q_sample-qna	1	임베디드시스템특강에서 무엇을 가르쳐
+q_sample-qna	1	IBM Cloud and Watson 특강 안내
+q_sample-qna	1	[대외홍보]2019 차세대 통일전문가반 교육과정 안내 및 참여 요청
+q_sample-qna	1	임베 사무실번호
+q_sample-qna	1	1학년 2학기 전공필수 알려줘
+q_sample-qna	1	학사일정 5월
+q_sample-qna	1	「새로운경기 제안공모 2019, 생활 속 소소한 아이디어」 모집 공고
+q_sample-qna	1	[사회봉사]연수종합사회복지관 대학생 서포터즈 1기 모집 안내
+q_sample-qna	1	[CDS] 학생 핵심역량 진단 및 경력계획 실시 안내
+q_sample-qna	1	학사일정 6월
+q_sample-qna	1	C언어 프로그래밍(2)은 무엇을 배우는 수업이야
+q_sample-qna	1	[교외장학] 2019년 한국예탁결제원 KSD꿈이룸장학사업 신규 장학생 모집 안내(~4월 3일까지 신청)
+q_sample-qna	1	2018-1학기 대학원생 생활원 입사 희망자
+q_sample-qna	1	2019-1학기 재무회계팀 봉사장학생 선발 결과
+q_sample-qna	1	INU 예술 활동 지원 프로그램 안내
+q_sample-qna	1	마이크로컨트롤러구조
+q_sample-qna	1	임베디드SW공학에서는 뭐 배워
+q_sample-qna	1	[교외장학] 2019년 (재)인천인재육성재단 상반기 장학생 선발 안내(~4월 19일까지 신청)
+q_sample-qna	1	7월 학사일정 알려줘
+q_sample-qna	1	2019 청산도 슬로걷기축제 안내
+q_sample-qna	1	[대외공고]한국농수산대학 전임교원 공개채용 공고
+q_sample-qna	1	졸업하고싶은데
+q_sample-qna	1	1학년1학기 교양필수 알려줘
+q_sample-qna	1	2018학번 대상 'C언어 예제집 만들기' 공모전 안내
+q_sample-qna	1	이수구분 변경 신청 안내
+q_sample-qna	1	고급알고리즘에서는 뭐 배워
+q_sample-qna	1	2019 정신전력 강화 연구논문 공모
+q_sample-qna	1	이산수학에서 무엇을 가르쳐
+q_sample-qna	1	조중휘 교수님 연구실에서 7월~12월 대학원 연구를 도우며 공부할 학생을 모집합니다.
+q_sample-qna	1	[대외공모]제3회 원자력안전위원회 영상 공모전
+q_sample-qna	1	웹스크래핑과 데이터마이닝 특강 안내
+q_sample-qna	1	2018 드론 경진대회 교육 멘토 모집
+q_sample-qna	1	4월은
+q_sample-qna	1	2월 학사일정 알려줘
+q_sample-qna	1	데이터베이스는 무엇을 배우는 수업이야
+q_sample-qna	1	2018-1학기 수강신청 유의사항 안내
+q_sample-qna	1	[글로벌아시아도서관] 입찰공고서 공모안 제출시 추가 제출서류 정정 알림
+q_sample-qna	1	너 친구 있어
+q_sample-qna	1	학교 다니기 싫어
+q_sample-qna	1	알고리즘에서 무엇을 가르쳐
+q_sample-qna	1	대학수학(2)에서는 뭐 배워
+q_sample-qna	1	3학년 1학기 전공기초 알려줘
+q_sample-qna	1	공업수학에서 무엇을 가르쳐
+q_sample-qna	1	7월 학사일정
+q_sample-qna	1	오늘은
+q_sample-qna	1	제어공학
+q_sample-qna	1	12월은
+q_sample-qna	1	자기설계세미나I은 무엇을 배우는 수업이야
+q_sample-qna	1	8월 학사일정
+q_sample-qna	1	임베디드비전시스템에서 뭘 배울 수 있어
+q_sample-qna	1	2018학년도 2학기 학업재이수 신청 안내
+q_sample-qna	1	랩
+q_sample-qna	1	제어공학에서는 뭐 배워
+q_sample-qna	1	2019년 5월 원격저작권교육 안내
+q_sample-qna	1	3학년 2학기 전공선택 알려줘
+q_sample-qna	1	부호및정보이론은 무엇을 배우는 수업이야
+q_sample-qna	1	「딸기 피크닉 가자GO!」축제 안내
+q_sample-qna	1	데이터구조는 무엇을 배우는 수업이야
+q_sample-qna	1	디지털논리회로에서 무엇을 가르쳐
+q_sample-qna	1	이산수학에서는 뭐 배워
+q_sample-qna	1	영상처리
+q_sample-qna	1	자기설계세미나I에서 무엇을 가르쳐
+q_sample-qna	1	임베디드시스템특강에서 뭘 배울 수 있어
+q_sample-qna	1	디바이스드라이버개발
+q_sample-qna	1	학사일정 11월
+q_sample-qna	1	[보건진료소] 2019 사랑의 헌혈 운동 협조 안내
+q_sample-qna	1	너의 이름은 뭐니

@@ -1,0 +1,38 @@
+{
+  "authoringRegion": "westus",
+  "culture": "ko-kr",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "services": [
+    {
+      "intentName": "l_Weather",
+      "appId": "74b759aa-13aa-484a-a386-767e280ff543",
+      "authoringKey": "f1a3319d27d641e0b12a1af924cc314d",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "inuLuis",
+      "id": "1"
+    },
+    {
+      "intentName": "q_sample-qna",
+      "kbId": "acb9e996-a19e-44c4-8b6e-a43e216079c0",
+      "subscriptionKey": "71fefca38d5c42fe9188329c487abc72",
+      "type": "qna",
+      "name": "inuqnamaker",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "42b48c92-00c0-44f6-8bc9-2886c21ecfb2",
+  "authoringKey": "f1a3319d27d641e0b12a1af924cc314d",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "inubotkr0613"
+}

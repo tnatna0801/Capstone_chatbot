@@ -1,0 +1,33 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.1",
+  "name": "inuLuis",
+  "desc": "inuLuis 0528",
+  "culture": "ko-kr",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "defalut"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "ㅏㅏㅏㅏㅏㅏㅏㅏㅏ",
+      "intent": "defalut",
+      "entities": []
+    }
+  ],
+  "settings": []
+}
